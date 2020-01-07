@@ -17,6 +17,10 @@ import datetime
 import time
 import pandas as pd
 
+def remove_nonnumeric(string):
+    if isinstance(string, str):
+        string = ''.join(filter(lambda x: x.isdigit(), string))
+    return string
 
 def depart_date_gen(days_after_today):
     return datetime.datetime.now() + datetime.timedelta(days=days_after_today)
@@ -52,7 +56,8 @@ def price_extract(train_list): # extract price and seats from a single ticket's 
         price = oprice[:oprice.find('.') + 4]
         seats = oprice[oprice.find('.') + 4:]
 
-    price = price.replace("[^0-9]", "")
+    price = remove_nonnumeric(price)
+    seats = remove_nonnumeric(seats)
     return price, seats
 
 
@@ -83,7 +88,7 @@ def collectdata(soup, days_after_today):  # return dataframe of train tickets fr
         dic = dict(title=title, tclass=tclass,
                    depart_date=depart_date.strftime("%Y-%m-%d"), 
                    arrival_date=arrival_date.strftime("%Y-%m-%d"), 
-                   depart_time=dt, arrive_time=at, price=price, seats=seats)
+                   depart_time=dt, arrival_time=at, price=price, seats=seats)
         all_departures[i] = dic
         i += 1
     
@@ -94,6 +99,7 @@ def collectdata(soup, days_after_today):  # return dataframe of train tickets fr
 # return dataframe of multiple days of departures
 def multiple_days_df(start_days, end_days):
     # open driver
+    end_days = end_days + 1
     driver = webdriver.Chrome(ChromeDriverManager().install())
     for i in range(start_days, end_days):
         # pass driver & start/end days to soup generator
@@ -119,4 +125,6 @@ if __name__ == "__main__":
     #url = url_gen(datetime.datetime.now() + datetime.timedelta(days=5))
     # all_departures = collectdata(5)
     #df = create_df(5)
-    df = multiple_days_df(5, 10)
+    # df = multiple_days_df(0, 0)
+    df = multiple_days_df(1, 1)
+    # df = multiple_days_df(2, 4)
