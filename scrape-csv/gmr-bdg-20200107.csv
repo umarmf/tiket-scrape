@@ -1,0 +1,2120 @@
+arrival_date,depart_date,depart_time,price,seats,tclass,title,scrape_date,arrival_time
+1/8/2020,1/8/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/8/2020,1/8/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/8/2020,1/8/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/8/2020,1/8/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/8/2020,1/8/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/8/2020,1/8/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/8/2020,1/8/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/8/2020,1/8/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/8/2020,1/8/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/9/2020,1/8/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/9/2020,1/8/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/9/2020,1/8/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/8/2020,1/8/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,17:10,130000.0,3,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/8/2020,1/8/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/8/2020,1/8/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/8/2020,1/8/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/8/2020,1/8/2020,8:55,150000.0,8,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/8/2020,1/8/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/8/2020,1/8/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/8/2020,1/8/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/8/2020,1/8/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/8/2020,1/8/2020,18:45,150000.0,1,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/9/2020,1/8/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/9/2020,1/8/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/9/2020,1/8/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/8/2020,1/8/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/8/2020,1/8/2020,5:00,170000.0,9,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/8/2020,1/8/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/8/2020,1/8/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/8/2020,1/8/2020,17:10,170000.0,6,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,17:10,170000.0,7,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,8:55,290000.0,4,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/8/2020,1/8/2020,15:40,290000.0,3,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/9/2020,1/8/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/8/2020,1/8/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/8/2020,1/8/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/8/2020,1/8/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/8/2020,1/8/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/8/2020,1/8/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/8/2020,1/8/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/8/2020,1/8/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/8/2020,1/8/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/9/2020,1/8/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/9/2020,1/8/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/9/2020,1/8/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/8/2020,1/8/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/8/2020,1/8/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/8/2020,1/8/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/8/2020,1/8/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/8/2020,1/8/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/8/2020,1/8/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/8/2020,1/8/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/8/2020,1/8/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/9/2020,1/8/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/9/2020,1/8/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/9/2020,1/8/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/8/2020,1/8/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/8/2020,1/8/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/8/2020,1/8/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/8/2020,1/8/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/8/2020,1/8/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/8/2020,1/8/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/8/2020,1/8/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/8/2020,1/8/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/8/2020,1/8/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/9/2020,1/8/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/9/2020,1/8/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/9/2020,1/8/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/8/2020,1/8/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/8/2020,1/8/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/8/2020,1/8/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/8/2020,1/8/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/8/2020,1/8/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/8/2020,1/8/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/8/2020,1/8/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/8/2020,1/8/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/8/2020,1/8/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/8/2020,1/8/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/9/2020,1/8/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/9/2020,1/8/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/9/2020,1/8/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/8/2020,1/8/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/8/2020,1/8/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/8/2020,1/8/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/8/2020,1/8/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/8/2020,1/8/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/8/2020,1/8/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/8/2020,1/8/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/8/2020,1/8/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/8/2020,1/8/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/8/2020,1/8/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/8/2020,1/8/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/8/2020,1/8/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/9/2020,1/9/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/9/2020,1/9/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/9/2020,1/9/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/9/2020,1/9/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/9/2020,1/9/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/9/2020,1/9/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/9/2020,1/9/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/9/2020,1/9/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/9/2020,1/9/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/10/2020,1/9/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/10/2020,1/9/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/9/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/9/2020,1/9/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,17:10,130000.0,1,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/9/2020,1/9/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/9/2020,1/9/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/9/2020,1/9/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/9/2020,1/9/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/9/2020,1/9/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/9/2020,1/9/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/9/2020,1/9/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/9/2020,1/9/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/9/2020,1/9/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/10/2020,1/9/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/10/2020,1/9/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/9/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/9/2020,1/9/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/9/2020,1/9/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/9/2020,1/9/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/9/2020,1/9/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/9/2020,1/9/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/9/2020,1/9/2020,8:55,290000.0,1,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/9/2020,1/9/2020,10:45,290000.0,1,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/9/2020,1/9/2020,18:45,290000.0,10,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/10/2020,1/9/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/9/2020,1/9/2020,5:00,300000.0,8,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/9/2020,1/9/2020,5:00,310000.0,10,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/9/2020,1/9/2020,7:12,350000.0,5,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/9/2020,1/9/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/9/2020,1/9/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/9/2020,1/9/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/9/2020,1/9/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/9/2020,1/9/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/9/2020,1/9/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/9/2020,1/9/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/9/2020,1/9/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/10/2020,1/9/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/10/2020,1/9/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/9/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/9/2020,1/9/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/9/2020,1/9/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/9/2020,1/9/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/9/2020,1/9/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/9/2020,1/9/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/9/2020,1/9/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/9/2020,1/9/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/9/2020,1/9/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/10/2020,1/9/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/10/2020,1/9/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/9/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/9/2020,1/9/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/9/2020,1/9/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/9/2020,1/9/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/9/2020,1/9/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/9/2020,1/9/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/9/2020,1/9/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/9/2020,1/9/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/9/2020,1/9/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/9/2020,1/9/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/10/2020,1/9/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/10/2020,1/9/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/9/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/9/2020,1/9/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/9/2020,1/9/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/9/2020,1/9/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/9/2020,1/9/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/9/2020,1/9/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/9/2020,1/9/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/9/2020,1/9/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/9/2020,1/9/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/9/2020,1/9/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/9/2020,1/9/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/10/2020,1/9/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/10/2020,1/9/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/9/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/9/2020,1/9/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/9/2020,1/9/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/9/2020,1/9/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/9/2020,1/9/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/9/2020,1/9/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/9/2020,1/9/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/9/2020,1/9/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/9/2020,1/9/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/9/2020,1/9/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/10/2020,1/10/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/10/2020,1/10/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/10/2020,1/10/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/10/2020,1/10/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/10/2020,1/10/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/10/2020,1/10/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/10/2020,1/10/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/11/2020,1/10/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/10/2020,1/10/2020,15:40,125000.0,1,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/10/2020,1/10/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/10/2020,1/10/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/10/2020,1/10/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/10/2020,1/10/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/10/2020,1/10/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/10/2020,1/10/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/11/2020,1/10/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/10/2020,1/10/2020,5:00,170000.0,99,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/10/2020,1/10/2020,14:00,170000.0,99,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/10/2020,1/10/2020,10:45,290000.0,1,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/10/2020,1/10/2020,5:00,300000.0,1,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/10/2020,1/10/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/10/2020,1/10/2020,14:00,340000.0,1,eksekutif (Subclass A),turangga priority 78P,1/7/2020,17:12
+1/10/2020,1/10/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,17:45,,0,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/10/2020,1/10/2020,18:45,,0,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/11/2020,1/10/2020,22:05,,0,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/11/2020,1/10/2020,22:55,,0,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/10/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/10/2020,1/10/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/10/2020,1/10/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/10/2020,1/10/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/10/2020,1/10/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/10/2020,1/10/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/10/2020,1/10/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/10/2020,1/10/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/11/2020,1/10/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/11/2020,1/10/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/11/2020,1/10/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/10/2020,1/10/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/10/2020,1/10/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/10/2020,1/10/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/10/2020,1/10/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/10/2020,1/10/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/10/2020,1/10/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/10/2020,1/10/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/10/2020,1/10/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/11/2020,1/10/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/11/2020,1/10/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/11/2020,1/10/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/10/2020,1/10/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,14:25,,0,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/10/2020,1/10/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,17:45,,0,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/10/2020,1/10/2020,18:45,,0,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/11/2020,1/10/2020,22:05,,0,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/11/2020,1/10/2020,22:55,,0,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/10/2020,1/10/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/10/2020,1/10/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/10/2020,1/10/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/10/2020,1/10/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/10/2020,1/10/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/10/2020,1/10/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/10/2020,1/10/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/10/2020,1/10/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/10/2020,1/10/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/11/2020,1/10/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/11/2020,1/10/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/11/2020,1/10/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/10/2020,1/10/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/10/2020,1/10/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/10/2020,1/10/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/10/2020,1/10/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/10/2020,1/10/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/10/2020,1/10/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/10/2020,1/10/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/10/2020,1/10/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/10/2020,1/10/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/11/2020,1/10/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/11/2020,1/10/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/11/2020,1/10/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/10/2020,1/10/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/10/2020,1/10/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/10/2020,1/10/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/10/2020,1/10/2020,5:00,,0,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/10/2020,1/10/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/10/2020,1/10/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/10/2020,1/10/2020,14:00,,0,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/10/2020,1/10/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/10/2020,1/10/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/10/2020,1/10/2020,15:40,,0,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/10/2020,1/10/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/10/2020,1/10/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/10/2020,1/10/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/10/2020,1/10/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/11/2020,1/10/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/10/2020,1/10/2020,14:00,,0,eksekutif (Subclass H),turangga priority 78P,1/7/2020,17:12
+1/10/2020,1/10/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/10/2020,1/10/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/11/2020,1/11/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/11/2020,1/11/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/11/2020,1/11/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/11/2020,1/11/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/11/2020,1/11/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/11/2020,1/11/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/11/2020,1/11/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/11/2020,1/11/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/11/2020,1/11/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/11/2020,1/11/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/12/2020,1/11/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/12/2020,1/11/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/12/2020,1/11/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/11/2020,1/11/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,17:10,130000.0,7,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,17:10,130000.0,99,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/11/2020,1/11/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/11/2020,1/11/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/11/2020,1/11/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/11/2020,1/11/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/11/2020,1/11/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/11/2020,1/11/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/12/2020,1/11/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/12/2020,1/11/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/12/2020,1/11/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/11/2020,1/11/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/11/2020,1/11/2020,5:00,170000.0,99,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/11/2020,1/11/2020,14:00,170000.0,99,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/11/2020,1/11/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/11/2020,1/11/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,17:10,170000.0,99,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/11/2020,1/11/2020,5:30,290000.0,1,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/11/2020,1/11/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/12/2020,1/11/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/11/2020,1/11/2020,5:00,300000.0,9,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/11/2020,1/11/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/11/2020,1/11/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/11/2020,1/11/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/11/2020,1/11/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/11/2020,1/11/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/11/2020,1/11/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/11/2020,1/11/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/11/2020,1/11/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/11/2020,1/11/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/11/2020,1/11/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/12/2020,1/11/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/12/2020,1/11/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/12/2020,1/11/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/11/2020,1/11/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/11/2020,1/11/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/11/2020,1/11/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/11/2020,1/11/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/11/2020,1/11/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/11/2020,1/11/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/11/2020,1/11/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/11/2020,1/11/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/11/2020,1/11/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/12/2020,1/11/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/12/2020,1/11/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/12/2020,1/11/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/11/2020,1/11/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,6:15,,0,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/11/2020,1/11/2020,7:50,,0,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/11/2020,1/11/2020,8:55,,0,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/11/2020,1/11/2020,10:45,,0,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/11/2020,1/11/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/11/2020,1/11/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/11/2020,1/11/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/11/2020,1/11/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/11/2020,1/11/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/11/2020,1/11/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/11/2020,1/11/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/11/2020,1/11/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/11/2020,1/11/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/11/2020,1/11/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/12/2020,1/11/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/12/2020,1/11/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/12/2020,1/11/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/11/2020,1/11/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/11/2020,1/11/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/11/2020,1/11/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/11/2020,1/11/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/11/2020,1/11/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/11/2020,1/11/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/11/2020,1/11/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/11/2020,1/11/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/11/2020,1/11/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/11/2020,1/11/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/11/2020,1/11/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/12/2020,1/11/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/12/2020,1/11/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/12/2020,1/11/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/11/2020,1/11/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/11/2020,1/11/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/11/2020,1/11/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/11/2020,1/11/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/11/2020,1/11/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/11/2020,1/11/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/11/2020,1/11/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/11/2020,1/11/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/11/2020,1/11/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/11/2020,1/11/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/11/2020,1/11/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/11/2020,1/11/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/12/2020,1/12/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/12/2020,1/12/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/12/2020,1/12/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/12/2020,1/12/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/12/2020,1/12/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/12/2020,1/12/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/12/2020,1/12/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/12/2020,1/12/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/12/2020,1/12/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/12/2020,1/12/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/13/2020,1/12/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/13/2020,1/12/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/13/2020,1/12/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/12/2020,1/12/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,17:10,130000.0,99,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/12/2020,1/12/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/12/2020,1/12/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/12/2020,1/12/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/12/2020,1/12/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/12/2020,1/12/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/12/2020,1/12/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/12/2020,1/12/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/12/2020,1/12/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/12/2020,1/12/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/12/2020,1/12/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/13/2020,1/12/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/13/2020,1/12/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/13/2020,1/12/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/12/2020,1/12/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/12/2020,1/12/2020,5:00,170000.0,99,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/12/2020,1/12/2020,14:00,170000.0,99,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/12/2020,1/12/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/12/2020,1/12/2020,17:10,170000.0,99,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/12/2020,1/12/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/12/2020,1/12/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/12/2020,1/12/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/12/2020,1/12/2020,18:45,290000.0,3,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/13/2020,1/12/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/12/2020,1/12/2020,5:00,300000.0,99,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/12/2020,1/12/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/12/2020,1/12/2020,7:12,375000.0,99,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/12/2020,1/12/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/12/2020,1/12/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/12/2020,1/12/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/12/2020,1/12/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/12/2020,1/12/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/12/2020,1/12/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/12/2020,1/12/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/12/2020,1/12/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/12/2020,1/12/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/13/2020,1/12/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/13/2020,1/12/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/13/2020,1/12/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/12/2020,1/12/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/12/2020,1/12/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/12/2020,1/12/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/12/2020,1/12/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/12/2020,1/12/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/12/2020,1/12/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/12/2020,1/12/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/12/2020,1/12/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/12/2020,1/12/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/13/2020,1/12/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/13/2020,1/12/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/13/2020,1/12/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/12/2020,1/12/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/12/2020,1/12/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/12/2020,1/12/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/12/2020,1/12/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/12/2020,1/12/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/12/2020,1/12/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/12/2020,1/12/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/12/2020,1/12/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/12/2020,1/12/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/12/2020,1/12/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/13/2020,1/12/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/13/2020,1/12/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/13/2020,1/12/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/12/2020,1/12/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/12/2020,1/12/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/12/2020,1/12/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/12/2020,1/12/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/12/2020,1/12/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/12/2020,1/12/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/12/2020,1/12/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/12/2020,1/12/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/12/2020,1/12/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/12/2020,1/12/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/12/2020,1/12/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/13/2020,1/12/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/13/2020,1/12/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/13/2020,1/12/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/12/2020,1/12/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/12/2020,1/12/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/12/2020,1/12/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/12/2020,1/12/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/12/2020,1/12/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/12/2020,1/12/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/12/2020,1/12/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/12/2020,1/12/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/12/2020,1/12/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/13/2020,1/13/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/13/2020,1/13/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/13/2020,1/13/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/13/2020,1/13/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/13/2020,1/13/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/13/2020,1/13/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/13/2020,1/13/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/13/2020,1/13/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/13/2020,1/13/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/13/2020,1/13/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/14/2020,1/13/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/14/2020,1/13/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/14/2020,1/13/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/13/2020,1/13/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,17:10,130000.0,99,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/13/2020,1/13/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/13/2020,1/13/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/13/2020,1/13/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/13/2020,1/13/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/13/2020,1/13/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/13/2020,1/13/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/13/2020,1/13/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/13/2020,1/13/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/13/2020,1/13/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/13/2020,1/13/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/14/2020,1/13/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/14/2020,1/13/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/14/2020,1/13/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/13/2020,1/13/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/13/2020,1/13/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/13/2020,1/13/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/13/2020,1/13/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/13/2020,1/13/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/13/2020,1/13/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/13/2020,1/13/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/13/2020,1/13/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/14/2020,1/13/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/13/2020,1/13/2020,7:12,350000.0,5,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/13/2020,1/13/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/13/2020,1/13/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/13/2020,1/13/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/13/2020,1/13/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/13/2020,1/13/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/13/2020,1/13/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/13/2020,1/13/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/13/2020,1/13/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/13/2020,1/13/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/14/2020,1/13/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/14/2020,1/13/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/14/2020,1/13/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/13/2020,1/13/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/13/2020,1/13/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/13/2020,1/13/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/13/2020,1/13/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/13/2020,1/13/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/13/2020,1/13/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/13/2020,1/13/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/13/2020,1/13/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/13/2020,1/13/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/14/2020,1/13/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/14/2020,1/13/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/14/2020,1/13/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/13/2020,1/13/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/13/2020,1/13/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/13/2020,1/13/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/13/2020,1/13/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/13/2020,1/13/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/13/2020,1/13/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/13/2020,1/13/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/13/2020,1/13/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/13/2020,1/13/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/13/2020,1/13/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/14/2020,1/13/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/14/2020,1/13/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/14/2020,1/13/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/13/2020,1/13/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/13/2020,1/13/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/13/2020,1/13/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/13/2020,1/13/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/13/2020,1/13/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/13/2020,1/13/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/13/2020,1/13/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/13/2020,1/13/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/13/2020,1/13/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/13/2020,1/13/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/13/2020,1/13/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/14/2020,1/13/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/14/2020,1/13/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/14/2020,1/13/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/13/2020,1/13/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/13/2020,1/13/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/13/2020,1/13/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/13/2020,1/13/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/13/2020,1/13/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/13/2020,1/13/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/13/2020,1/13/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/13/2020,1/13/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/13/2020,1/13/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/13/2020,1/13/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/14/2020,1/14/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/14/2020,1/14/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/14/2020,1/14/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/14/2020,1/14/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/14/2020,1/14/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/14/2020,1/14/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/14/2020,1/14/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/14/2020,1/14/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/14/2020,1/14/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/15/2020,1/14/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/15/2020,1/14/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/15/2020,1/14/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/14/2020,1/14/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,17:10,130000.0,99,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/14/2020,1/14/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/14/2020,1/14/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/14/2020,1/14/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/14/2020,1/14/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/14/2020,1/14/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/14/2020,1/14/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/14/2020,1/14/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/14/2020,1/14/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/14/2020,1/14/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/15/2020,1/14/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/15/2020,1/14/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/15/2020,1/14/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/14/2020,1/14/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/14/2020,1/14/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/14/2020,1/14/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/14/2020,1/14/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/14/2020,1/14/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/14/2020,1/14/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/14/2020,1/14/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/14/2020,1/14/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/14/2020,1/14/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/15/2020,1/14/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/14/2020,1/14/2020,7:12,350000.0,99,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/14/2020,1/14/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/14/2020,1/14/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/14/2020,1/14/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/14/2020,1/14/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/14/2020,1/14/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/14/2020,1/14/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/14/2020,1/14/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/14/2020,1/14/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/15/2020,1/14/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/15/2020,1/14/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/15/2020,1/14/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/14/2020,1/14/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/14/2020,1/14/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/14/2020,1/14/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/14/2020,1/14/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/14/2020,1/14/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/14/2020,1/14/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/14/2020,1/14/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/14/2020,1/14/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/15/2020,1/14/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/15/2020,1/14/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/15/2020,1/14/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/14/2020,1/14/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/14/2020,1/14/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/14/2020,1/14/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/14/2020,1/14/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/14/2020,1/14/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/14/2020,1/14/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/14/2020,1/14/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/14/2020,1/14/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/14/2020,1/14/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/15/2020,1/14/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/15/2020,1/14/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/15/2020,1/14/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/14/2020,1/14/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/14/2020,1/14/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/14/2020,1/14/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/14/2020,1/14/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/14/2020,1/14/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/14/2020,1/14/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/14/2020,1/14/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/14/2020,1/14/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/14/2020,1/14/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/14/2020,1/14/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/15/2020,1/14/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/15/2020,1/14/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/15/2020,1/14/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/14/2020,1/14/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/14/2020,1/14/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/14/2020,1/14/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/14/2020,1/14/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/14/2020,1/14/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/14/2020,1/14/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/14/2020,1/14/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/14/2020,1/14/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/15/2020,1/15/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/15/2020,1/15/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/15/2020,1/15/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/15/2020,1/15/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/15/2020,1/15/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/15/2020,1/15/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/15/2020,1/15/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/15/2020,1/15/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/15/2020,1/15/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/16/2020,1/15/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/16/2020,1/15/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/16/2020,1/15/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/15/2020,1/15/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,17:10,130000.0,10,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/15/2020,1/15/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/15/2020,1/15/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/15/2020,1/15/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/15/2020,1/15/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/15/2020,1/15/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/15/2020,1/15/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/15/2020,1/15/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/15/2020,1/15/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/15/2020,1/15/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/16/2020,1/15/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/16/2020,1/15/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/16/2020,1/15/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/15/2020,1/15/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/15/2020,1/15/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/15/2020,1/15/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/15/2020,1/15/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/15/2020,1/15/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/15/2020,1/15/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/15/2020,1/15/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/15/2020,1/15/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/15/2020,1/15/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/16/2020,1/15/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/15/2020,1/15/2020,7:12,350000.0,99,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/15/2020,1/15/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/15/2020,1/15/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/15/2020,1/15/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/15/2020,1/15/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/15/2020,1/15/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/15/2020,1/15/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/15/2020,1/15/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/15/2020,1/15/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/16/2020,1/15/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/16/2020,1/15/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/16/2020,1/15/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/15/2020,1/15/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/15/2020,1/15/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/15/2020,1/15/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/15/2020,1/15/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/15/2020,1/15/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/15/2020,1/15/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/15/2020,1/15/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/15/2020,1/15/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/16/2020,1/15/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/16/2020,1/15/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/16/2020,1/15/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/15/2020,1/15/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/15/2020,1/15/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/15/2020,1/15/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/15/2020,1/15/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/15/2020,1/15/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/15/2020,1/15/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/15/2020,1/15/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/15/2020,1/15/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/15/2020,1/15/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/16/2020,1/15/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/16/2020,1/15/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/16/2020,1/15/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/15/2020,1/15/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/15/2020,1/15/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/15/2020,1/15/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/15/2020,1/15/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/15/2020,1/15/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/15/2020,1/15/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/15/2020,1/15/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/15/2020,1/15/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/15/2020,1/15/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/15/2020,1/15/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/16/2020,1/15/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/16/2020,1/15/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/16/2020,1/15/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/15/2020,1/15/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/15/2020,1/15/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/15/2020,1/15/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/15/2020,1/15/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/15/2020,1/15/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/15/2020,1/15/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/15/2020,1/15/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/15/2020,1/15/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/16/2020,1/16/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/16/2020,1/16/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/16/2020,1/16/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/16/2020,1/16/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/16/2020,1/16/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/16/2020,1/16/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/16/2020,1/16/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/16/2020,1/16/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/16/2020,1/16/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/17/2020,1/16/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/16/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/17/2020,1/16/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/16/2020,1/16/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,17:10,130000.0,99,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/16/2020,1/16/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/16/2020,1/16/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/16/2020,1/16/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/16/2020,1/16/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/16/2020,1/16/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/16/2020,1/16/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/16/2020,1/16/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/16/2020,1/16/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/16/2020,1/16/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/17/2020,1/16/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/16/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/17/2020,1/16/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/16/2020,1/16/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/16/2020,1/16/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/16/2020,1/16/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/16/2020,1/16/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/16/2020,1/16/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/16/2020,1/16/2020,8:55,290000.0,1,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/16/2020,1/16/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/16/2020,1/16/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/16/2020,1/16/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/17/2020,1/16/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/16/2020,1/16/2020,5:00,300000.0,99,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/16/2020,1/16/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/16/2020,1/16/2020,7:12,350000.0,99,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/16/2020,1/16/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/16/2020,1/16/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/16/2020,1/16/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/16/2020,1/16/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/16/2020,1/16/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/16/2020,1/16/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/16/2020,1/16/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/16/2020,1/16/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/17/2020,1/16/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/16/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/17/2020,1/16/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/16/2020,1/16/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/16/2020,1/16/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/16/2020,1/16/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/16/2020,1/16/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/16/2020,1/16/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/16/2020,1/16/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/16/2020,1/16/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/16/2020,1/16/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/17/2020,1/16/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/16/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/17/2020,1/16/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/16/2020,1/16/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/16/2020,1/16/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/16/2020,1/16/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/16/2020,1/16/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/16/2020,1/16/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/16/2020,1/16/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/16/2020,1/16/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/16/2020,1/16/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/16/2020,1/16/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/17/2020,1/16/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/16/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/17/2020,1/16/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/16/2020,1/16/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/16/2020,1/16/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/16/2020,1/16/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/16/2020,1/16/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/16/2020,1/16/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/16/2020,1/16/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/16/2020,1/16/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/16/2020,1/16/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/16/2020,1/16/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/16/2020,1/16/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/17/2020,1/16/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/16/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/17/2020,1/16/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/16/2020,1/16/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/16/2020,1/16/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/16/2020,1/16/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/16/2020,1/16/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/16/2020,1/16/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/16/2020,1/16/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/16/2020,1/16/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/16/2020,1/16/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/17/2020,1/17/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/17/2020,1/17/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/17/2020,1/17/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/17/2020,1/17/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/17/2020,1/17/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/17/2020,1/17/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/17/2020,1/17/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/17/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/18/2020,1/17/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/17/2020,1/17/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/17/2020,1/17/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/17/2020,1/17/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/17/2020,1/17/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/17/2020,1/17/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/17/2020,1/17/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/17/2020,1/17/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/17/2020,1/17/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/17/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/18/2020,1/17/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/17/2020,1/17/2020,5:00,170000.0,99,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/17/2020,1/17/2020,14:00,170000.0,99,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/17/2020,1/17/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/17/2020,1/17/2020,10:45,290000.0,2,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/18/2020,1/17/2020,22:05,290000.0,9,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/17/2020,1/17/2020,5:00,300000.0,9,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/17/2020,1/17/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/17/2020,1/17/2020,14:00,330000.0,4,eksekutif (Subclass H),turangga priority 78P,1/7/2020,17:12
+1/17/2020,1/17/2020,14:00,340000.0,99,eksekutif (Subclass A),turangga priority 78P,1/7/2020,17:12
+1/17/2020,1/17/2020,7:12,375000.0,99,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/17/2020,1/17/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,17:45,,0,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/17/2020,1/17/2020,18:45,,0,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/18/2020,1/17/2020,22:05,,0,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/17/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/17/2020,1/17/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/17/2020,1/17/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/17/2020,1/17/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/17/2020,1/17/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/17/2020,1/17/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/17/2020,1/17/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/17/2020,1/17/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/18/2020,1/17/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/18/2020,1/17/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/18/2020,1/17/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/17/2020,1/17/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/17/2020,1/17/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/17/2020,1/17/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/17/2020,1/17/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/17/2020,1/17/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/17/2020,1/17/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/17/2020,1/17/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/17/2020,1/17/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/18/2020,1/17/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/18/2020,1/17/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/18/2020,1/17/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/17/2020,1/17/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,17:45,,0,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/17/2020,1/17/2020,18:45,,0,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/18/2020,1/17/2020,22:05,,0,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/17/2020,1/17/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/17/2020,1/17/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/17/2020,1/17/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/17/2020,1/17/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/17/2020,1/17/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/17/2020,1/17/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/17/2020,1/17/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/17/2020,1/17/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/17/2020,1/17/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/18/2020,1/17/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/18/2020,1/17/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/18/2020,1/17/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/17/2020,1/17/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/17/2020,1/17/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/17/2020,1/17/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/17/2020,1/17/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/17/2020,1/17/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/17/2020,1/17/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/17/2020,1/17/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/17/2020,1/17/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/17/2020,1/17/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/17/2020,1/17/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/18/2020,1/17/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/18/2020,1/17/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/18/2020,1/17/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/17/2020,1/17/2020,5:00,,0,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/17/2020,1/17/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/17/2020,1/17/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/17/2020,1/17/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/17/2020,1/17/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/17/2020,1/17/2020,14:00,,0,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/17/2020,1/17/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/17/2020,1/17/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/17/2020,1/17/2020,17:10,,0,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/17/2020,1/17/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/17/2020,1/17/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/17/2020,1/17/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/17/2020,1/17/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/18/2020,1/18/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/18/2020,1/18/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/18/2020,1/18/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/18/2020,1/18/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/18/2020,1/18/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/18/2020,1/18/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/18/2020,1/18/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/18/2020,1/18/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/18/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/18/2020,1/18/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/19/2020,1/18/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/19/2020,1/18/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/19/2020,1/18/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/18/2020,1/18/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,17:10,130000.0,99,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/18/2020,1/18/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/18/2020,1/18/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/18/2020,1/18/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/18/2020,1/18/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/18/2020,1/18/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/18/2020,1/18/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/18/2020,1/18/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/18/2020,1/18/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/18/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/18/2020,1/18/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/19/2020,1/18/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/19/2020,1/18/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/19/2020,1/18/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/18/2020,1/18/2020,5:00,170000.0,99,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/18/2020,1/18/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/18/2020,1/18/2020,14:00,170000.0,99,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/18/2020,1/18/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/18/2020,1/18/2020,17:10,170000.0,99,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/18/2020,1/18/2020,5:30,290000.0,10,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/18/2020,1/18/2020,8:55,290000.0,2,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/18/2020,1/18/2020,10:45,290000.0,2,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/18/2020,1/18/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/18/2020,1/18/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/19/2020,1/18/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/18/2020,1/18/2020,5:00,300000.0,99,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/18/2020,1/18/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/18/2020,1/18/2020,7:12,375000.0,99,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/18/2020,1/18/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/18/2020,1/18/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/18/2020,1/18/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/18/2020,1/18/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/18/2020,1/18/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/18/2020,1/18/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/18/2020,1/18/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/18/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/18/2020,1/18/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/19/2020,1/18/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/19/2020,1/18/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/19/2020,1/18/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/18/2020,1/18/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/18/2020,1/18/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/18/2020,1/18/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/18/2020,1/18/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/18/2020,1/18/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/18/2020,1/18/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/18/2020,1/18/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/18/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/18/2020,1/18/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/19/2020,1/18/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/19/2020,1/18/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/19/2020,1/18/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/18/2020,1/18/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/18/2020,1/18/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/18/2020,1/18/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/18/2020,1/18/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/18/2020,1/18/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/18/2020,1/18/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/18/2020,1/18/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/18/2020,1/18/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/18/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/18/2020,1/18/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/19/2020,1/18/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/19/2020,1/18/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/19/2020,1/18/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/18/2020,1/18/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/18/2020,1/18/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/18/2020,1/18/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/18/2020,1/18/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/18/2020,1/18/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/18/2020,1/18/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/18/2020,1/18/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/18/2020,1/18/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/18/2020,1/18/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/18/2020,1/18/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/18/2020,1/18/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/19/2020,1/18/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/19/2020,1/18/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/19/2020,1/18/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/18/2020,1/18/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/18/2020,1/18/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/18/2020,1/18/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/18/2020,1/18/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/18/2020,1/18/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/18/2020,1/18/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/18/2020,1/18/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/18/2020,1/18/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/19/2020,1/19/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/19/2020,1/19/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/19/2020,1/19/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/19/2020,1/19/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/19/2020,1/19/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/19/2020,1/19/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/19/2020,1/19/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/19/2020,1/19/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/19/2020,1/19/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/19/2020,1/19/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/20/2020,1/19/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/20/2020,1/19/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/20/2020,1/19/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/19/2020,1/19/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,17:10,130000.0,99,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/19/2020,1/19/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/19/2020,1/19/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/19/2020,1/19/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/19/2020,1/19/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/19/2020,1/19/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/19/2020,1/19/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/19/2020,1/19/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/19/2020,1/19/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/19/2020,1/19/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/19/2020,1/19/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/20/2020,1/19/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/20/2020,1/19/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/20/2020,1/19/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/19/2020,1/19/2020,5:00,170000.0,99,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/19/2020,1/19/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/19/2020,1/19/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/19/2020,1/19/2020,14:00,170000.0,99,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/19/2020,1/19/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,17:10,170000.0,99,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/19/2020,1/19/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/19/2020,1/19/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/19/2020,1/19/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/19/2020,1/19/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/19/2020,1/19/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/20/2020,1/19/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/19/2020,1/19/2020,5:00,300000.0,99,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/19/2020,1/19/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/19/2020,1/19/2020,7:12,375000.0,99,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/19/2020,1/19/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/19/2020,1/19/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/19/2020,1/19/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/19/2020,1/19/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/19/2020,1/19/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/19/2020,1/19/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/19/2020,1/19/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/19/2020,1/19/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/19/2020,1/19/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/20/2020,1/19/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/20/2020,1/19/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/20/2020,1/19/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/19/2020,1/19/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/19/2020,1/19/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/19/2020,1/19/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/19/2020,1/19/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/19/2020,1/19/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/19/2020,1/19/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/19/2020,1/19/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/19/2020,1/19/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/19/2020,1/19/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/20/2020,1/19/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/20/2020,1/19/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/20/2020,1/19/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/19/2020,1/19/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/19/2020,1/19/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/19/2020,1/19/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/19/2020,1/19/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/19/2020,1/19/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/19/2020,1/19/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/19/2020,1/19/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/19/2020,1/19/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/19/2020,1/19/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/19/2020,1/19/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/20/2020,1/19/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/20/2020,1/19/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/20/2020,1/19/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/19/2020,1/19/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/19/2020,1/19/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/19/2020,1/19/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/19/2020,1/19/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/19/2020,1/19/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/19/2020,1/19/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/19/2020,1/19/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/19/2020,1/19/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/19/2020,1/19/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/19/2020,1/19/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/19/2020,1/19/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/20/2020,1/19/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/20/2020,1/19/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/20/2020,1/19/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/19/2020,1/19/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/19/2020,1/19/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/19/2020,1/19/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/19/2020,1/19/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/19/2020,1/19/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/19/2020,1/19/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/19/2020,1/19/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/19/2020,1/19/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/20/2020,1/20/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/20/2020,1/20/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/20/2020,1/20/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/20/2020,1/20/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/20/2020,1/20/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/20/2020,1/20/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/20/2020,1/20/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/20/2020,1/20/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/20/2020,1/20/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/20/2020,1/20/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/21/2020,1/20/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/21/2020,1/20/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/21/2020,1/20/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/20/2020,1/20/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,17:10,130000.0,99,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/20/2020,1/20/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/20/2020,1/20/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/20/2020,1/20/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/20/2020,1/20/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/20/2020,1/20/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/20/2020,1/20/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/20/2020,1/20/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/20/2020,1/20/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/20/2020,1/20/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/20/2020,1/20/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/21/2020,1/20/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/21/2020,1/20/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/21/2020,1/20/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/20/2020,1/20/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/20/2020,1/20/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/20/2020,1/20/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/20/2020,1/20/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/20/2020,1/20/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/20/2020,1/20/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/20/2020,1/20/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/20/2020,1/20/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/20/2020,1/20/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/20/2020,1/20/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/21/2020,1/20/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/20/2020,1/20/2020,7:12,350000.0,99,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/20/2020,1/20/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/20/2020,1/20/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/20/2020,1/20/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/20/2020,1/20/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/20/2020,1/20/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/20/2020,1/20/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/20/2020,1/20/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/20/2020,1/20/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/20/2020,1/20/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/21/2020,1/20/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/21/2020,1/20/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/21/2020,1/20/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/20/2020,1/20/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/20/2020,1/20/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/20/2020,1/20/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/20/2020,1/20/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/20/2020,1/20/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/20/2020,1/20/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/20/2020,1/20/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/20/2020,1/20/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/20/2020,1/20/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/21/2020,1/20/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/21/2020,1/20/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/21/2020,1/20/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/20/2020,1/20/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/20/2020,1/20/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/20/2020,1/20/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/20/2020,1/20/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/20/2020,1/20/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/20/2020,1/20/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/20/2020,1/20/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/20/2020,1/20/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/20/2020,1/20/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/20/2020,1/20/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/21/2020,1/20/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/21/2020,1/20/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/21/2020,1/20/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/20/2020,1/20/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/20/2020,1/20/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/20/2020,1/20/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/20/2020,1/20/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/20/2020,1/20/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/20/2020,1/20/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/20/2020,1/20/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/20/2020,1/20/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/20/2020,1/20/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/20/2020,1/20/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/20/2020,1/20/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/21/2020,1/20/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/21/2020,1/20/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/21/2020,1/20/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/20/2020,1/20/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/20/2020,1/20/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/20/2020,1/20/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/20/2020,1/20/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/20/2020,1/20/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/20/2020,1/20/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/20/2020,1/20/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/20/2020,1/20/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/21/2020,1/21/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/21/2020,1/21/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/21/2020,1/21/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/21/2020,1/21/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/21/2020,1/21/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/21/2020,1/21/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/21/2020,1/21/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/21/2020,1/21/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/21/2020,1/21/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/22/2020,1/21/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/22/2020,1/21/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/22/2020,1/21/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/21/2020,1/21/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,17:10,130000.0,8,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/21/2020,1/21/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/21/2020,1/21/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/21/2020,1/21/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/21/2020,1/21/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/21/2020,1/21/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/21/2020,1/21/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/21/2020,1/21/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/21/2020,1/21/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/21/2020,1/21/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/22/2020,1/21/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/22/2020,1/21/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/22/2020,1/21/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/21/2020,1/21/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/21/2020,1/21/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/21/2020,1/21/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/21/2020,1/21/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/21/2020,1/21/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/21/2020,1/21/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/21/2020,1/21/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/21/2020,1/21/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/21/2020,1/21/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/22/2020,1/21/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/21/2020,1/21/2020,7:12,350000.0,99,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/21/2020,1/21/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/21/2020,1/21/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/21/2020,1/21/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/21/2020,1/21/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/21/2020,1/21/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/21/2020,1/21/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/21/2020,1/21/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/21/2020,1/21/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/22/2020,1/21/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/22/2020,1/21/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/22/2020,1/21/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/21/2020,1/21/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/21/2020,1/21/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/21/2020,1/21/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/21/2020,1/21/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/21/2020,1/21/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/21/2020,1/21/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/21/2020,1/21/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/21/2020,1/21/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/22/2020,1/21/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/22/2020,1/21/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/22/2020,1/21/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/21/2020,1/21/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/21/2020,1/21/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/21/2020,1/21/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/21/2020,1/21/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/21/2020,1/21/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/21/2020,1/21/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/21/2020,1/21/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/21/2020,1/21/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/21/2020,1/21/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/22/2020,1/21/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/22/2020,1/21/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/22/2020,1/21/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/21/2020,1/21/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/21/2020,1/21/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/21/2020,1/21/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/21/2020,1/21/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/21/2020,1/21/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/21/2020,1/21/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/21/2020,1/21/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/21/2020,1/21/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/21/2020,1/21/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/21/2020,1/21/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/22/2020,1/21/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/22/2020,1/21/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/22/2020,1/21/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/21/2020,1/21/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/21/2020,1/21/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/21/2020,1/21/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/21/2020,1/21/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/21/2020,1/21/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/21/2020,1/21/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/21/2020,1/21/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/21/2020,1/21/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/22/2020,1/22/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/22/2020,1/22/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/22/2020,1/22/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/22/2020,1/22/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/22/2020,1/22/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/22/2020,1/22/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/22/2020,1/22/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/22/2020,1/22/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/22/2020,1/22/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/23/2020,1/22/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/23/2020,1/22/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/23/2020,1/22/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/22/2020,1/22/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,17:10,130000.0,10,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/22/2020,1/22/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/22/2020,1/22/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/22/2020,1/22/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/22/2020,1/22/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/22/2020,1/22/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/22/2020,1/22/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/22/2020,1/22/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/22/2020,1/22/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/22/2020,1/22/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/23/2020,1/22/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/23/2020,1/22/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/23/2020,1/22/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/22/2020,1/22/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/22/2020,1/22/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/22/2020,1/22/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/22/2020,1/22/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/22/2020,1/22/2020,17:10,170000.0,99,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/22/2020,1/22/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/22/2020,1/22/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/22/2020,1/22/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/22/2020,1/22/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/23/2020,1/22/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/22/2020,1/22/2020,7:12,350000.0,99,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/22/2020,1/22/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/22/2020,1/22/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/22/2020,1/22/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/22/2020,1/22/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/22/2020,1/22/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/22/2020,1/22/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/22/2020,1/22/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/22/2020,1/22/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/23/2020,1/22/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/23/2020,1/22/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/23/2020,1/22/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/22/2020,1/22/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/22/2020,1/22/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/22/2020,1/22/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/22/2020,1/22/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/22/2020,1/22/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/22/2020,1/22/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/22/2020,1/22/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/22/2020,1/22/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/23/2020,1/22/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/23/2020,1/22/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/23/2020,1/22/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/22/2020,1/22/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/22/2020,1/22/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/22/2020,1/22/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/22/2020,1/22/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/22/2020,1/22/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/22/2020,1/22/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/22/2020,1/22/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/22/2020,1/22/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/22/2020,1/22/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/23/2020,1/22/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/23/2020,1/22/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/23/2020,1/22/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/22/2020,1/22/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/22/2020,1/22/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/22/2020,1/22/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/22/2020,1/22/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/22/2020,1/22/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/22/2020,1/22/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/22/2020,1/22/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/22/2020,1/22/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/22/2020,1/22/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/22/2020,1/22/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/23/2020,1/22/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/23/2020,1/22/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/23/2020,1/22/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/22/2020,1/22/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/22/2020,1/22/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/22/2020,1/22/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/22/2020,1/22/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/22/2020,1/22/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/22/2020,1/22/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/22/2020,1/22/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/22/2020,1/22/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/23/2020,1/23/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/23/2020,1/23/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/23/2020,1/23/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/23/2020,1/23/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/23/2020,1/23/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/23/2020,1/23/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/23/2020,1/23/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/23/2020,1/23/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/23/2020,1/23/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/24/2020,1/23/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/23/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/24/2020,1/23/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/23/2020,1/23/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,17:10,130000.0,99,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/23/2020,1/23/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/23/2020,1/23/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/23/2020,1/23/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/23/2020,1/23/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/23/2020,1/23/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/23/2020,1/23/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/23/2020,1/23/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/23/2020,1/23/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/23/2020,1/23/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/24/2020,1/23/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/23/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/24/2020,1/23/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/23/2020,1/23/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/23/2020,1/23/2020,5:00,170000.0,99,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/23/2020,1/23/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/23/2020,1/23/2020,14:00,170000.0,99,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/23/2020,1/23/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,17:10,170000.0,9,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/23/2020,1/23/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/23/2020,1/23/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/23/2020,1/23/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/23/2020,1/23/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/24/2020,1/23/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/23/2020,1/23/2020,5:00,300000.0,99,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/23/2020,1/23/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/23/2020,1/23/2020,7:12,350000.0,99,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/23/2020,1/23/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/23/2020,1/23/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/23/2020,1/23/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/23/2020,1/23/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/23/2020,1/23/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/23/2020,1/23/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/23/2020,1/23/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/23/2020,1/23/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/24/2020,1/23/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/23/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/24/2020,1/23/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/23/2020,1/23/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/23/2020,1/23/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/23/2020,1/23/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/23/2020,1/23/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/23/2020,1/23/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/23/2020,1/23/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/23/2020,1/23/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/23/2020,1/23/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/24/2020,1/23/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/23/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/24/2020,1/23/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/23/2020,1/23/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/23/2020,1/23/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/23/2020,1/23/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/23/2020,1/23/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/23/2020,1/23/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/23/2020,1/23/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/23/2020,1/23/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/23/2020,1/23/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/23/2020,1/23/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/24/2020,1/23/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/23/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/24/2020,1/23/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/23/2020,1/23/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/23/2020,1/23/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/23/2020,1/23/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/23/2020,1/23/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/23/2020,1/23/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/23/2020,1/23/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/23/2020,1/23/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/23/2020,1/23/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/23/2020,1/23/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/23/2020,1/23/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/24/2020,1/23/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/23/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/24/2020,1/23/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/23/2020,1/23/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/23/2020,1/23/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/23/2020,1/23/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/23/2020,1/23/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/23/2020,1/23/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/23/2020,1/23/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/23/2020,1/23/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/23/2020,1/23/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/24/2020,1/24/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/24/2020,1/24/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/24/2020,1/24/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/24/2020,1/24/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/24/2020,1/24/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/24/2020,1/24/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/24/2020,1/24/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/24/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/25/2020,1/24/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/24/2020,1/24/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/24/2020,1/24/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/24/2020,1/24/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/24/2020,1/24/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/24/2020,1/24/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/24/2020,1/24/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/24/2020,1/24/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/24/2020,1/24/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/24/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/25/2020,1/24/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/24/2020,1/24/2020,5:00,170000.0,99,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/24/2020,1/24/2020,14:00,170000.0,99,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/24/2020,1/24/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/24/2020,1/24/2020,8:55,290000.0,7,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/24/2020,1/24/2020,10:45,290000.0,1,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/24/2020,1/24/2020,15:40,290000.0,3,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/25/2020,1/24/2020,22:05,290000.0,6,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/24/2020,1/24/2020,5:00,300000.0,99,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/24/2020,1/24/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/24/2020,1/24/2020,14:00,330000.0,8,eksekutif (Subclass H),turangga priority 78P,1/7/2020,17:12
+1/24/2020,1/24/2020,14:00,340000.0,6,eksekutif (Subclass A),turangga priority 78P,1/7/2020,17:12
+1/24/2020,1/24/2020,7:12,375000.0,99,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/24/2020,1/24/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,17:45,,0,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/24/2020,1/24/2020,18:45,,0,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/25/2020,1/24/2020,22:05,,0,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/24/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/24/2020,1/24/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/24/2020,1/24/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/24/2020,1/24/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/24/2020,1/24/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/24/2020,1/24/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/24/2020,1/24/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/24/2020,1/24/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/25/2020,1/24/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/25/2020,1/24/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/25/2020,1/24/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/24/2020,1/24/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/24/2020,1/24/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/24/2020,1/24/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/24/2020,1/24/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/24/2020,1/24/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/24/2020,1/24/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/24/2020,1/24/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/24/2020,1/24/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/25/2020,1/24/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/25/2020,1/24/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/25/2020,1/24/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/24/2020,1/24/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,17:45,,0,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/24/2020,1/24/2020,18:45,,0,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/25/2020,1/24/2020,22:05,,0,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/24/2020,1/24/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/24/2020,1/24/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/24/2020,1/24/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/24/2020,1/24/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/24/2020,1/24/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/24/2020,1/24/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/24/2020,1/24/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/24/2020,1/24/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/24/2020,1/24/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/25/2020,1/24/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/25/2020,1/24/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/25/2020,1/24/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/24/2020,1/24/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/24/2020,1/24/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/24/2020,1/24/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/24/2020,1/24/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/24/2020,1/24/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/24/2020,1/24/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/24/2020,1/24/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/24/2020,1/24/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/24/2020,1/24/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/24/2020,1/24/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/25/2020,1/24/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/25/2020,1/24/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/25/2020,1/24/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/24/2020,1/24/2020,5:00,,0,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/24/2020,1/24/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/24/2020,1/24/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/24/2020,1/24/2020,5:00,,0,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/24/2020,1/24/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/24/2020,1/24/2020,14:00,,0,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/24/2020,1/24/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/24/2020,1/24/2020,14:00,,0,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/24/2020,1/24/2020,17:10,,0,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,17:10,,0,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/24/2020,1/24/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/24/2020,1/24/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/25/2020,1/25/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/25/2020,1/25/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/25/2020,1/25/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/25/2020,1/25/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/25/2020,1/25/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/25/2020,1/25/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/25/2020,1/25/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/25/2020,1/25/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/25/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/25/2020,1/25/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/26/2020,1/25/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/26/2020,1/25/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/26/2020,1/25/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/25/2020,1/25/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,17:10,130000.0,99,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/25/2020,1/25/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/25/2020,1/25/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/25/2020,1/25/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/25/2020,1/25/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/25/2020,1/25/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/25/2020,1/25/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/25/2020,1/25/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/25/2020,1/25/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/25/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/25/2020,1/25/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/26/2020,1/25/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/26/2020,1/25/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/26/2020,1/25/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/25/2020,1/25/2020,5:00,170000.0,99,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/25/2020,1/25/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/25/2020,1/25/2020,14:00,170000.0,99,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/25/2020,1/25/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/25/2020,1/25/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,17:10,170000.0,99,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/25/2020,1/25/2020,5:30,290000.0,10,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/25/2020,1/25/2020,8:55,290000.0,5,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/25/2020,1/25/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/25/2020,1/25/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/25/2020,1/25/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/26/2020,1/25/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/25/2020,1/25/2020,5:00,300000.0,8,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/25/2020,1/25/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/25/2020,1/25/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/25/2020,1/25/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/25/2020,1/25/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/25/2020,1/25/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/25/2020,1/25/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/25/2020,1/25/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/25/2020,1/25/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/25/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/25/2020,1/25/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/26/2020,1/25/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/26/2020,1/25/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/26/2020,1/25/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/25/2020,1/25/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/25/2020,1/25/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/25/2020,1/25/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/25/2020,1/25/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/25/2020,1/25/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/25/2020,1/25/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/25/2020,1/25/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/25/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/25/2020,1/25/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/26/2020,1/25/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/26/2020,1/25/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/26/2020,1/25/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/25/2020,1/25/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/25/2020,1/25/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/25/2020,1/25/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/25/2020,1/25/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/25/2020,1/25/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/25/2020,1/25/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/25/2020,1/25/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/25/2020,1/25/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/25/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/25/2020,1/25/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/26/2020,1/25/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/26/2020,1/25/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/26/2020,1/25/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/25/2020,1/25/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/25/2020,1/25/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/25/2020,1/25/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/25/2020,1/25/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/25/2020,1/25/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/25/2020,1/25/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/25/2020,1/25/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/25/2020,1/25/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/25/2020,1/25/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/25/2020,1/25/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/25/2020,1/25/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/26/2020,1/25/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/26/2020,1/25/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/26/2020,1/25/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/25/2020,1/25/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/25/2020,1/25/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/25/2020,1/25/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/25/2020,1/25/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/25/2020,1/25/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/25/2020,1/25/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/25/2020,1/25/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/25/2020,1/25/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
+1/25/2020,1/25/2020,7:12,,0,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/26/2020,1/26/2020,0:40,110000.0,99,ekonomi (Subclass S),argo parahyangan 66F,1/7/2020,3:40
+1/26/2020,1/26/2020,5:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 36,1/7/2020,8:46
+1/26/2020,1/26/2020,6:15,110000.0,99,ekonomi (Subclass S),argo parahyangan 38,1/7/2020,9:49
+1/26/2020,1/26/2020,7:50,110000.0,99,ekonomi (Subclass C),pangandaran 176,1/7/2020,11:19
+1/26/2020,1/26/2020,8:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 40,1/7/2020,12:13
+1/26/2020,1/26/2020,10:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 42,1/7/2020,14:09
+1/26/2020,1/26/2020,13:10,110000.0,99,ekonomi (Subclass S),argo parahyangan 54,1/7/2020,16:33
+1/26/2020,1/26/2020,14:25,110000.0,99,ekonomi (Subclass S),argo parahyangan 68F,1/7/2020,17:38
+1/26/2020,1/26/2020,17:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 46,1/7/2020,20:59
+1/26/2020,1/26/2020,18:45,110000.0,99,ekonomi (Subclass S),argo parahyangan 48,1/7/2020,22:08
+1/27/2020,1/26/2020,22:05,110000.0,99,ekonomi (Subclass S),argo parahyangan 50,1/7/2020,1:27
+1/27/2020,1/26/2020,22:55,110000.0,99,ekonomi (Subclass S),argo parahyangan 52,1/7/2020,2:05
+1/27/2020,1/26/2020,23:30,110000.0,99,ekonomi (Subclass S),argo parahyangan 70F,1/7/2020,2:40
+1/26/2020,1/26/2020,15:40,125000.0,99,ekonomi (Subclass C),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,17:10,130000.0,99,ekonomi (Subclass Q),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,17:10,130000.0,99,ekonomi (Subclass P),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,0:40,150000.0,99,eksekutif (Subclass J),argo parahyangan 66F,1/7/2020,3:40
+1/26/2020,1/26/2020,5:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 36,1/7/2020,8:46
+1/26/2020,1/26/2020,6:15,150000.0,99,eksekutif (Subclass J),argo parahyangan 38,1/7/2020,9:49
+1/26/2020,1/26/2020,7:12,150000.0,99,eksekutif (Subclass J),argo parahyangan 56,1/7/2020,10:31
+1/26/2020,1/26/2020,7:50,150000.0,99,eksekutif (Subclass A),pangandaran 176,1/7/2020,11:19
+1/26/2020,1/26/2020,8:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 40,1/7/2020,12:13
+1/26/2020,1/26/2020,10:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 42,1/7/2020,14:09
+1/26/2020,1/26/2020,13:10,150000.0,99,eksekutif (Subclass J),argo parahyangan 54,1/7/2020,16:33
+1/26/2020,1/26/2020,14:25,150000.0,99,eksekutif (Subclass J),argo parahyangan 68F,1/7/2020,17:38
+1/26/2020,1/26/2020,17:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 46,1/7/2020,20:59
+1/26/2020,1/26/2020,18:45,150000.0,99,eksekutif (Subclass J),argo parahyangan 48,1/7/2020,22:08
+1/27/2020,1/26/2020,22:05,150000.0,99,eksekutif (Subclass J),argo parahyangan 50,1/7/2020,1:27
+1/27/2020,1/26/2020,22:55,150000.0,99,eksekutif (Subclass J),argo parahyangan 52,1/7/2020,2:05
+1/27/2020,1/26/2020,23:30,150000.0,99,eksekutif (Subclass J),argo parahyangan 70F,1/7/2020,2:40
+1/26/2020,1/26/2020,5:00,170000.0,99,eksekutif (Subclass A),argo wilis 2,1/7/2020,8:07
+1/26/2020,1/26/2020,5:00,170000.0,99,eksekutif (Subclass H),argo wilis 2,1/7/2020,8:07
+1/26/2020,1/26/2020,14:00,170000.0,99,eksekutif (Subclass A),turangga 78,1/7/2020,17:12
+1/26/2020,1/26/2020,14:00,170000.0,99,eksekutif (Subclass H),turangga 78,1/7/2020,17:12
+1/26/2020,1/26/2020,17:10,170000.0,99,eksekutif (Subclass A),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,17:10,170000.0,99,eksekutif (Subclass I),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,17:10,170000.0,99,eksekutif (Subclass H),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,15:40,175000.0,99,eksekutif (Subclass A),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,0:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 66FP,1/7/2020,3:40
+1/26/2020,1/26/2020,5:30,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 36P,1/7/2020,8:46
+1/26/2020,1/26/2020,8:55,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 40P,1/7/2020,12:13
+1/26/2020,1/26/2020,10:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 42P,1/7/2020,14:09
+1/26/2020,1/26/2020,15:40,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 44P,1/7/2020,18:30
+1/26/2020,1/26/2020,18:45,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 48P,1/7/2020,22:08
+1/27/2020,1/26/2020,22:05,290000.0,99,eksekutif (Subclass I),argo parahyangan priority 50P,1/7/2020,1:27
+1/26/2020,1/26/2020,5:00,300000.0,10,eksekutif (Subclass J),argo wilis priority 2P,1/7/2020,8:07
+1/26/2020,1/26/2020,5:00,310000.0,99,eksekutif (Subclass I),argo wilis priority 2P,1/7/2020,8:07
+1/26/2020,1/26/2020,7:12,375000.0,99,eksekutif (Subclass A),argo parahyangan luxury 56L,1/7/2020,10:31
+1/26/2020,1/26/2020,15:40,,0,ekonomi (Subclass S),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,0:40,,0,ekonomi (Subclass Q),argo parahyangan 66F,1/7/2020,3:40
+1/26/2020,1/26/2020,5:30,,0,ekonomi (Subclass Q),argo parahyangan 36,1/7/2020,8:46
+1/26/2020,1/26/2020,6:15,,0,ekonomi (Subclass Q),argo parahyangan 38,1/7/2020,9:49
+1/26/2020,1/26/2020,8:55,,0,ekonomi (Subclass Q),argo parahyangan 40,1/7/2020,12:13
+1/26/2020,1/26/2020,10:45,,0,ekonomi (Subclass Q),argo parahyangan 42,1/7/2020,14:09
+1/26/2020,1/26/2020,13:10,,0,ekonomi (Subclass Q),argo parahyangan 54,1/7/2020,16:33
+1/26/2020,1/26/2020,14:25,,0,ekonomi (Subclass Q),argo parahyangan 68F,1/7/2020,17:38
+1/26/2020,1/26/2020,15:40,,0,ekonomi (Subclass Q),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,17:45,,0,ekonomi (Subclass Q),argo parahyangan 46,1/7/2020,20:59
+1/26/2020,1/26/2020,18:45,,0,ekonomi (Subclass Q),argo parahyangan 48,1/7/2020,22:08
+1/27/2020,1/26/2020,22:05,,0,ekonomi (Subclass Q),argo parahyangan 50,1/7/2020,1:27
+1/27/2020,1/26/2020,22:55,,0,ekonomi (Subclass Q),argo parahyangan 52,1/7/2020,2:05
+1/27/2020,1/26/2020,23:30,,0,ekonomi (Subclass Q),argo parahyangan 70F,1/7/2020,2:40
+1/26/2020,1/26/2020,0:40,,0,ekonomi (Subclass P),argo parahyangan 66F,1/7/2020,3:40
+1/26/2020,1/26/2020,5:30,,0,ekonomi (Subclass P),argo parahyangan 36,1/7/2020,8:46
+1/26/2020,1/26/2020,6:15,,0,ekonomi (Subclass P),argo parahyangan 38,1/7/2020,9:49
+1/26/2020,1/26/2020,8:55,,0,ekonomi (Subclass P),argo parahyangan 40,1/7/2020,12:13
+1/26/2020,1/26/2020,10:45,,0,ekonomi (Subclass P),argo parahyangan 42,1/7/2020,14:09
+1/26/2020,1/26/2020,13:10,,0,ekonomi (Subclass P),argo parahyangan 54,1/7/2020,16:33
+1/26/2020,1/26/2020,14:25,,0,ekonomi (Subclass P),argo parahyangan 68F,1/7/2020,17:38
+1/26/2020,1/26/2020,15:40,,0,ekonomi (Subclass P),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,17:45,,0,ekonomi (Subclass P),argo parahyangan 46,1/7/2020,20:59
+1/26/2020,1/26/2020,18:45,,0,ekonomi (Subclass P),argo parahyangan 48,1/7/2020,22:08
+1/27/2020,1/26/2020,22:05,,0,ekonomi (Subclass P),argo parahyangan 50,1/7/2020,1:27
+1/27/2020,1/26/2020,22:55,,0,ekonomi (Subclass P),argo parahyangan 52,1/7/2020,2:05
+1/27/2020,1/26/2020,23:30,,0,ekonomi (Subclass P),argo parahyangan 70F,1/7/2020,2:40
+1/26/2020,1/26/2020,17:10,,0,ekonomi (Subclass S),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,17:10,,0,ekonomi (Subclass C),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,17:10,,0,ekonomi (Subclass CA),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,15:40,,0,eksekutif (Subclass J),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,0:40,,0,eksekutif (Subclass I),argo parahyangan 66F,1/7/2020,3:40
+1/26/2020,1/26/2020,5:30,,0,eksekutif (Subclass I),argo parahyangan 36,1/7/2020,8:46
+1/26/2020,1/26/2020,6:15,,0,eksekutif (Subclass I),argo parahyangan 38,1/7/2020,9:49
+1/26/2020,1/26/2020,7:12,,0,eksekutif (Subclass I),argo parahyangan 56,1/7/2020,10:31
+1/26/2020,1/26/2020,8:55,,0,eksekutif (Subclass I),argo parahyangan 40,1/7/2020,12:13
+1/26/2020,1/26/2020,10:45,,0,eksekutif (Subclass I),argo parahyangan 42,1/7/2020,14:09
+1/26/2020,1/26/2020,13:10,,0,eksekutif (Subclass I),argo parahyangan 54,1/7/2020,16:33
+1/26/2020,1/26/2020,14:25,,0,eksekutif (Subclass I),argo parahyangan 68F,1/7/2020,17:38
+1/26/2020,1/26/2020,15:40,,0,eksekutif (Subclass I),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,17:45,,0,eksekutif (Subclass I),argo parahyangan 46,1/7/2020,20:59
+1/26/2020,1/26/2020,18:45,,0,eksekutif (Subclass I),argo parahyangan 48,1/7/2020,22:08
+1/27/2020,1/26/2020,22:05,,0,eksekutif (Subclass I),argo parahyangan 50,1/7/2020,1:27
+1/27/2020,1/26/2020,22:55,,0,eksekutif (Subclass I),argo parahyangan 52,1/7/2020,2:05
+1/27/2020,1/26/2020,23:30,,0,eksekutif (Subclass I),argo parahyangan 70F,1/7/2020,2:40
+1/26/2020,1/26/2020,0:40,,0,eksekutif (Subclass H),argo parahyangan 66F,1/7/2020,3:40
+1/26/2020,1/26/2020,5:30,,0,eksekutif (Subclass H),argo parahyangan 36,1/7/2020,8:46
+1/26/2020,1/26/2020,6:15,,0,eksekutif (Subclass H),argo parahyangan 38,1/7/2020,9:49
+1/26/2020,1/26/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan 56,1/7/2020,10:31
+1/26/2020,1/26/2020,8:55,,0,eksekutif (Subclass H),argo parahyangan 40,1/7/2020,12:13
+1/26/2020,1/26/2020,10:45,,0,eksekutif (Subclass H),argo parahyangan 42,1/7/2020,14:09
+1/26/2020,1/26/2020,13:10,,0,eksekutif (Subclass H),argo parahyangan 54,1/7/2020,16:33
+1/26/2020,1/26/2020,14:25,,0,eksekutif (Subclass H),argo parahyangan 68F,1/7/2020,17:38
+1/26/2020,1/26/2020,15:40,,0,eksekutif (Subclass H),argo parahyangan excellence 44,1/7/2020,18:30
+1/26/2020,1/26/2020,17:45,,0,eksekutif (Subclass H),argo parahyangan 46,1/7/2020,20:59
+1/26/2020,1/26/2020,18:45,,0,eksekutif (Subclass H),argo parahyangan 48,1/7/2020,22:08
+1/27/2020,1/26/2020,22:05,,0,eksekutif (Subclass H),argo parahyangan 50,1/7/2020,1:27
+1/27/2020,1/26/2020,22:55,,0,eksekutif (Subclass H),argo parahyangan 52,1/7/2020,2:05
+1/27/2020,1/26/2020,23:30,,0,eksekutif (Subclass H),argo parahyangan 70F,1/7/2020,2:40
+1/26/2020,1/26/2020,5:00,,0,eksekutif (Subclass AA),argo wilis 2,1/7/2020,8:07
+1/26/2020,1/26/2020,5:00,,0,eksekutif (Subclass J),argo wilis 2,1/7/2020,8:07
+1/26/2020,1/26/2020,5:00,,0,eksekutif (Subclass I),argo wilis 2,1/7/2020,8:07
+1/26/2020,1/26/2020,14:00,,0,eksekutif (Subclass J),turangga 78,1/7/2020,17:12
+1/26/2020,1/26/2020,14:00,,0,eksekutif (Subclass I),turangga 78,1/7/2020,17:12
+1/26/2020,1/26/2020,14:00,,0,eksekutif (Subclass AA),turangga 78,1/7/2020,17:12
+1/26/2020,1/26/2020,17:10,,0,eksekutif (Subclass AA),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,17:10,,0,eksekutif (Subclass J),mutiara selatan 104,1/7/2020,20:29
+1/26/2020,1/26/2020,7:12,,0,eksekutif (Subclass H),argo parahyangan luxury 56L,1/7/2020,10:31
