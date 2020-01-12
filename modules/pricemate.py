@@ -126,5 +126,5 @@ if __name__ == "__main__":
     # all_departures = collectdata(5)
     #df = create_df(5)
     # df = multiple_days_df(0, 0)
-    df = multiple_days_df(1, 1)
+    df = multiple_days_df(1, 3)
     # df = multiple_days_df(2, 4)
