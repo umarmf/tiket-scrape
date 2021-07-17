@@ -81,7 +81,7 @@ def collectdata(soup, days_after_today):  # return dataframe of train tickets fr
     for train_list in timetable:
         title = train_list.find('div', class_='text-train-name').text.replace("\t", "")
         tclass = train_list.find('div', class_='text-train-class').text.replace("\t", "")
-        dt = train_list.find('div', class_='text-time depart').text
+        dt = train_list.find('div', class_='text-time').text
         arrival_date, at = arrival_date_extract(train_list, depart_date)
         price, seats = price_extract(train_list)
         
